@@ -10,6 +10,6 @@ The analysis helps companies understand which devices and operating systems are 
 Apps accordingly.it also aids in identifying user behaviour trends,providing valuable 
 Data for targeted marketing , product innovation, and improving customer satisfaction  
 
-![Uploading Screenshot 2025-01-03 203603.png…]()
+Uploading Screenshot 2025-01-03 203603.png…
 
 
